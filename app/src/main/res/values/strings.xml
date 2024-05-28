@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RemitConnectApp</string>
+    <string name="previous_recipients">Previous recipients</string>
+    <string name="new_recipient">New recipient</string>
+    <string name="continue_button">Continue</string>
+    <string name="got_it_btn">Got it !</string>
+    <string name="confirm_button">Confirm</string>
+
+</resources>
