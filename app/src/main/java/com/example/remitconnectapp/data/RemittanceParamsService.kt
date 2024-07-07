@@ -9,6 +9,7 @@ import retrofit2.http.GET
 interface RemittanceParamsService {
 
     @GET("wallets")
+
     suspend fun getWallets(): ApiResponse<List<WalletDTO>>
 
     @GET("countries")
